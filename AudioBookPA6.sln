@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29403.142
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AudioBookPA6", "AudioBookPA6\AudioBookPA6.csproj", "{C006778A-1B16-4995-8780-498EBAC48385}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C006778A-1B16-4995-8780-498EBAC48385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C006778A-1B16-4995-8780-498EBAC48385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C006778A-1B16-4995-8780-498EBAC48385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C006778A-1B16-4995-8780-498EBAC48385}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A1DA35AF-13D5-48D3-A717-AC616905FB7B}
+	EndGlobalSection
+EndGlobal
